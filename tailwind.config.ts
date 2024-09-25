@@ -9,12 +9,12 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        AppPrimary:"0A2463", 
-        AppSecondary:"3E92CC",
-        AppTertiary:"D8315B",
-        AppHeading:"D8315B",
-        AppBody:"FFFAFF",
-        AppPop:"0A2463",
+        AppPrimary:"#0A2463", 
+        AppSecondary:"#3E92CC",
+        AppTertiary:"#D8315B",
+        AppHeading:"#D8315B",
+        AppBody:"#FFFAFF",
+        AppPop:"#0A2463",
       },
         background: "var(--background)",
         foreground: "var(--foreground)",
