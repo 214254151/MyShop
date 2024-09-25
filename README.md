@@ -41,3 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ##  install Tailwind CSS inteliSense
 ##  ES7 React/Redux/GraphQL/React-Native snippets
 ##  Prettier - Code formatter
+## installing the react icons: npm i react-icons
